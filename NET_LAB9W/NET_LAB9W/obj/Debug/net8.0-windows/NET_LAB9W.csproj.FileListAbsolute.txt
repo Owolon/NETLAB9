@@ -1,0 +1,17 @@
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\bin\Debug\net8.0-windows\NET_LAB9W.exe
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\bin\Debug\net8.0-windows\NET_LAB9W.deps.json
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\bin\Debug\net8.0-windows\NET_LAB9W.runtimeconfig.json
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\bin\Debug\net8.0-windows\NET_LAB9W.dll
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\bin\Debug\net8.0-windows\NET_LAB9W.pdb
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.Form1.resources
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.AssemblyInfo.cs
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.dll
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\refint\NET_LAB9W.dll
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.pdb
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.genruntimeconfig.cache
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\ref\NET_LAB9W.dll
+C:\Users\ПК\source\repos\NET_LAB9W\NET_LAB9W\obj\Debug\net8.0-windows\NET_LAB9W.Properties.Resources.resources
