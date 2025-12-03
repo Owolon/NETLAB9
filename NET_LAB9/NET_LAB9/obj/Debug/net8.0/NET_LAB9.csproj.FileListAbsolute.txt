@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\bin\Debug\net8.0\NET_LAB9.exe
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\bin\Debug\net8.0\NET_LAB9.deps.json
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\bin\Debug\net8.0\NET_LAB9.runtimeconfig.json
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\bin\Debug\net8.0\NET_LAB9.dll
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\bin\Debug\net8.0\NET_LAB9.pdb
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.AssemblyInfo.cs
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.dll
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\refint\NET_LAB9.dll
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.pdb
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\NET_LAB9.genruntimeconfig.cache
+C:\Users\ПК\source\repos\NET_LAB9\NET_LAB9\obj\Debug\net8.0\ref\NET_LAB9.dll
